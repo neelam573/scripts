@@ -21,9 +21,9 @@ echo    "final sum is $add
 done
 
 
-$firstnum= 0
-$secondnum= 1
-$thirdnum= (( add = $firstnum + $secondnum ))
+$firstnum=0
+$secondnum=1
+$thirdnum=(( add = $firstnum + $secondnum ))
 
 
 
